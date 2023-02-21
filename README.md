@@ -1,1 +1,2 @@
-This project is baed on understanding the concept of stack and queue.
+# 0x19. C - Stacks, Queues - LIFO, FIFO
+Interpreter of Monty Bytecode files
